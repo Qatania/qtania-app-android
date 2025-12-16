@@ -6,5 +6,6 @@
         <domain includeSubdomains="true">10.0.2.2</domain> <!-- Emulator -->
         <domain includeSubdomains="true">localhost</domain>
         <domain includeSubdomains="true">se2-demo.aau.at</domain> <!-- Uni server -->
+        <domain includeSubdomains="true">centrifuge.q1studios.at</domain> <!-- Q1 server -->
     </domain-config>
 </network-security-config>
